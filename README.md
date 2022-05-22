@@ -3,7 +3,7 @@
   Python, Web_scraping, Computer_vision, Automation, Pentest
 
 - 🌱 I’m currently learning ...
-  Bs4,JavaScript,cv2
+  Bs4, JavaScript, cv2
 
 - 💞️ I’m looking to collaborate on ...
   improving backend security and adaptability
