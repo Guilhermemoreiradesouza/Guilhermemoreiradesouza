@@ -9,7 +9,9 @@
   improving backend security and adaptability
 
 - 📫 How to reach me ...
+  
   📞"+55 11 97833-9580" (Telefone Number)
+
   📧 "biocipherpydeveloper@gmail.com" (Email)
 
 
